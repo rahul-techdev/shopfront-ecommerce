@@ -51,3 +51,4 @@ export const CATEGORIES: CategoryInfo[] = [
     itemCount: 3,
   },
 ];
+

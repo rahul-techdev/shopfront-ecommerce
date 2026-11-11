@@ -42,3 +42,4 @@ export interface ProductFiltersState {
   inStockOnly: boolean;
   sortBy: ProductSortOption;
 }
+

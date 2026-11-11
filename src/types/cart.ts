@@ -27,3 +27,4 @@ export interface CartContextType {
   appliedPromo: string | null;
   summary: CartSummary;
 }
+

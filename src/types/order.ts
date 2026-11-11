@@ -22,3 +22,4 @@ export interface OrderConfirmationDetails {
   paymentMethod: DemoPaymentMethod;
   paymentStatus: 'Paid (Simulated)' | 'Pending COD';
 }
+

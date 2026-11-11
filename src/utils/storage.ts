@@ -28,3 +28,4 @@ export function removeFromStorage(key: string): void {
     console.warn(`Error removing localStorage key "${key}":`, error);
   }
 }
+

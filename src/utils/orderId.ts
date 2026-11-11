@@ -7,3 +7,4 @@ export function generateDemoOrderId(): string {
   const randomChars = Math.random().toString(36).substring(2, 7).toUpperCase();
   return `SPF-${year}-${randomChars}`;
 }
+

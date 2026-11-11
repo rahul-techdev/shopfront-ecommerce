@@ -41,3 +41,4 @@ export function getEstimatedDeliveryDate(daysFromNow = 4): string {
     month: 'short',
   }).format(date);
 }
+

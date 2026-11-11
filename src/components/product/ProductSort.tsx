@@ -26,3 +26,4 @@ export const ProductSort: React.FC<ProductSortProps> = ({ value, onChange }) => 
     </div>
   );
 };
+

@@ -23,3 +23,4 @@ export const RatingBadge: React.FC<RatingBadgeProps> = ({
     </div>
   );
 };
+
